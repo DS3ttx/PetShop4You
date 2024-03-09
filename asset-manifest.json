@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.db2bf6bb.css",
+    "main.js": "/static/js/main.4785895a.js",
+    "static/js/453.98d259fd.chunk.js": "/static/js/453.98d259fd.chunk.js",
+    "static/media/logo.png": "/static/media/logo.29c2acab17b4b4295e04.png",
+    "static/media/dogPequeno.jpg": "/static/media/dogPequeno.8bbacc847de5e797aa0e.jpg",
+    "static/media/dogGrande.jpg": "/static/media/dogGrande.483027253803ea1c435b.jpg",
+    "index.html": "/index.html",
+    "main.db2bf6bb.css.map": "/static/css/main.db2bf6bb.css.map",
+    "main.4785895a.js.map": "/static/js/main.4785895a.js.map",
+    "453.98d259fd.chunk.js.map": "/static/js/453.98d259fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db2bf6bb.css",
+    "static/js/main.4785895a.js"
+  ]
+}
